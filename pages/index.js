@@ -1,8 +1,7 @@
 function Home() {
   return (
     <h1>
-      Priscila, eu te amo! Obrigado por ser essa pessoa maravilhosa que você
-      é!!!
+      Página em construção.<hr></hr><br></br> Em breve teremos novidades!
     </h1>
   );
 }
